@@ -1,10 +1,7 @@
-# AgroNext - Akıllı Sera Prototipi
-
-### Bu bir Prototip versiyonudur. Bu site şuanlık Neon Postgres data sunucusuna bağlıdır ve tüm değerler tahminidir.
-<img width="1527" height="1015" alt="Screenshot 2026-03-10 at 11 33 35" src="https://github.com/user-attachments/assets/dbfa76b4-58dc-433e-8c28-b746a7c7277e" />
-
+# AgroNext - Web tabanlı Akıllı Sera Paneli
 
 Teknofest Tarım Teknolojileri yarışması için geliştirilen akıllı sera izleme web arayüzü.
+-# Bu bir Prototip versiyonudur. Bu site şuanlık Neon Postgres data sunucusuna bağlıdır ve tüm değerler tahminidir.
 
 ## Özellikler
 
