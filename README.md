@@ -39,6 +39,7 @@ npm run dev
    DATABASE_URL="postgresql://user:pass@ep-xxx.neon.tech/neondb?sslmode=require"
    ```
 3. Veritabanını doldurmak için: `npm run db:seed` (ilk kez) veya `npm run db:seed:force` (verileri yenile)
+<img width="1134" height="436" alt="Screenshot 2026-03-10 at 15 32 11" src="https://github.com/user-attachments/assets/0aef3a2d-3cd9-475b-ba07-2f7359556c1a" />
 
 ## Vercel Deploy
 
