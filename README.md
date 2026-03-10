@@ -1,7 +1,8 @@
 # AgroNext - Web tabanlı Akıllı Sera Paneli
 
 Teknofest Tarım Teknolojileri yarışması için geliştirilen akıllı sera izleme web arayüzü.
--# Bu bir Prototip versiyonudur. Bu site şuanlık Neon Postgres data sunucusuna bağlıdır ve tüm değerler tahminidir.
+
+<sup><sub>Bu bir Prototip versiyonudur. Bu site şuanlık Neon Postgres data sunucusuna bağlıdır ve tüm değerler tahminidir.</sub></sup>
 
 ## Özellikler
 
