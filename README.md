@@ -19,6 +19,7 @@ Teknofest Tarım Teknolojileri yarışması için geliştirilen akıllı sera iz
 
 
 ## Kurulum
+- Kurulum için Cursor yazılım uygulaması kullanılması önerilir.
 
 ```bash
 npm install
